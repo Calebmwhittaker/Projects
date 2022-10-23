@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    display: inline-block;
+    border-radius: 4px;
+    visibility: visible;
+    text-align: center;
+}
+
+label {
+    text-align: center;
+    margin: 0 auto;
+}
+
+div {
+    margin: 0 auto;
+    text-align: center;
+}
